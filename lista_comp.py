@@ -1,4 +1,7 @@
 def linha():
+    """
+    Cria linhas para separar o output
+    """
     print('-' * 30)
 
 # loop comum
